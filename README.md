@@ -12,7 +12,7 @@
 <br />
 
 ### Languages and Tools:
-<img align="left" alt="Python" width="26px" src="https://camo.githubusercontent.com/d189e768f90e759322c974001d1f0bd8a8e3c55ef56db2027f0bc70f4c71e131/68747470733a2f2f74656c656772612e70682f66696c652f3664616237303366306536383062306564363133662e706e67" />
+<img align="left" alt="Python" width="26px" src="https://avatars.mds.yandex.net/get-entity_search/58808/261054429/S122x122Fit_2x" />
 <img align="left" alt="PostgreSQL" width="26px" src="https://www.postgresql.org/media/img/about/press/elephant.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
