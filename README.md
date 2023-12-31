@@ -7,7 +7,7 @@
 - 💻 Programming in Python and using libraries for data analysis (pandas, numpy, matplotlib, seaborn, etc.)
 
 ### Connect with me:
-<img align="left" alt="@andrey_senachin | Telegram" width="22px" src="https://camo.githubusercontent.com/d189e768f90e759322c974001d1f0bd8a8e3c55ef56db2027f0bc70f4c71e131/68747470733a2f2f74656c656772612e70682f66696c652f3664616237303366306536383062306564363133662e706e67" /> https://t.me/andrey_senachin
+<i class="fa-brands fa-telegram"></i> https://t.me/andrey_senachin
 
 <br />
 
