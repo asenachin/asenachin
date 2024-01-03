@@ -1,10 +1,10 @@
 ### Hi there, I'm Andrey Senachin - asenachin 👋
 
-## I am a data analyst and I program in Python!
-- 📊 Data research and analysis
-- 📈 Data Visualization
-- 🧮 Machine learning and statistical analysis
-- 💻 Programming in Python and using libraries for data analysis (pandas, numpy, matplotlib, seaborn, etc.)
+## I am a data analyst and Python developer!
+- 📊 Data research and analysis.
+- 📈 Data Visualization.
+- 🧮 Machine learning and statistical analysis.
+- 💻 Python developer.
 
 ### Connect with me:
 <img align="left" alt="Telegram" width="26px" src="https://github.com/asenachin/asenachin/assets/109008309/4a01280e-6cee-47a4-a48c-8de63f4f4820" /> <a href="https://t.me/andrey_senachin">@andrey_senachin
