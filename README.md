@@ -4,7 +4,7 @@
 - 📊 Data research and analysis.
 - 📈 Data Visualization.
 - 🧮 Machine learning and statistical analysis.
-- 💻 Python developer.
+- 🐍 Python (pandas, seaborn, plotly, dash, aiogram, flask, django).
 
 ### Connect with me:
 <img align="left" alt="Telegram" width="26px" src="https://github.com/asenachin/asenachin/assets/109008309/4a01280e-6cee-47a4-a48c-8de63f4f4820" /> <a href="https://t.me/andrey_senachin">@andrey_senachin
