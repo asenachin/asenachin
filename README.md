@@ -12,8 +12,8 @@
 <br />
 
 ### Languages and Tools:
-<img align="left" alt="Python" width="26px" src="https://avatars.mds.yandex.net/get-entity_search/58808/261054429/S122x122Fit_2x" />
-<img align="left" alt="PostgreSQL" width="26px" src="https://www.postgresql.org/media/img/about/press/elephant.png" />
+<img align="left" alt="Python" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" />
+<img align="left" alt="PostgreSQL" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
