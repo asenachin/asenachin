@@ -1,8 +1,11 @@
-### Hi there, I'm Andrey Senachin - asenachin 👋
+### Привет, я Андрей Сеначин - asenachin 👋
 
-## I am a data analyst and Python developer!
-- 📊 Data research and analysis.
-- 📈 Data Visualization.
+## Я аналитик данных и немного разработчик Python!
+1 📈 Data Visualization.  
+- [Дашбоард в Power BI](https://github.com/asenachin/dashboard_power_bi/blob/main/README.md).  
+- [Дашборд в Excel](https://github.com/asenachin/dashboard_excel).
+- [Дашборд в Tableau](https://public.tableau.com/app/profile/andrew.senachin6889/viz/telecomm_dash_viz/Dash_Telecomm_Viz).
+2 📊 Исследовательский анализ данных.  
 - 🧮 Machine learning and statistical analysis.
 - 🐍 Python (pandas, seaborn, plotly, dash, aiogram, flask, django).
 
