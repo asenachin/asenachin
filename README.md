@@ -5,6 +5,7 @@
   - [Дашбоард в Power BI](https://github.com/asenachin/dashboard_power_bi/blob/main/README.md).  
   - [Дашборд в Excel](https://github.com/asenachin/dashboard_excel).
   - [Дашборд в Tableau](https://public.tableau.com/app/profile/andrew.senachin6889/viz/telecomm_dash_viz/Dash_Telecomm_Viz).
+  - [Презентация в LibreOffice Impress](https://disk.yandex.ru/i/UmRidIw7bbiRug).  
 
 2 📊 Исследовательский анализ данных.  
   - [Анализ поведения пользователей в мобильном приложении](https://nbviewer.org/gist/asenachin/0591aed26806aeef4199b3f79212c4e0).  
