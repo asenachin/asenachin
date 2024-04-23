@@ -4,18 +4,22 @@
 1 📈 Data Visualization.  
   - [Дашбоард в Power BI](https://github.com/asenachin/dashboard_power_bi/blob/main/README.md).  
   - [Дашборд в Excel](https://github.com/asenachin/dashboard_excel).
-  - [Дашборд в Tableau](https://public.tableau.com/app/profile/andrew.senachin6889/viz/telecomm_dash_viz/Dash_Telecomm_Viz).  
+  - [Дашборд в Tableau](https://public.tableau.com/app/profile/andrew.senachin6889/viz/telecomm_dash_viz/Dash_Telecomm_Viz).
+
 2 📊 Исследовательский анализ данных.
   - [Исследования рынка общепита в Москве для принятия решения об открытии нового заведения](https://nbviewer.org/gist/asenachin/365b7af890c59845b91ddfe731887c58).
   - [Исследование надёжности заёмщиков — анализ банковских данных](https://nbviewer.org/gist/asenachin/4035c80f8250a349b281046aa1a72110).
   - [Исследование данных о российском кинопрокате](https://nbviewer.org/gist/asenachin/ff9afb6f08032b672bd5e2ad9b65c6b6).
   - [Исследование опроса клиентов телекоммуникационной компании](https://nbviewer.org/gist/asenachin/9094acf8f5025155a35535cf93f30cce).
   - [Исследование данных о продажах игр и игровых платформ](https://nbviewer.org/gist/asenachin/ed3350b66e238354afd0ec92a215f9d0).
-  - [Определение выгодного тарифа для телеком компании](https://nbviewer.org/gist/asenachin/272f0ba7b048bdaa153b3d2dc8f8d295).  
+  - [Определение выгодного тарифа для телеком компании](https://nbviewer.org/gist/asenachin/272f0ba7b048bdaa153b3d2dc8f8d295).
+
 3 🧮 Машинное обучение и статистический анализ.  
-  - [Прогнозирование вероятности оттока пользователей для фитнес-центров](https://nbviewer.org/gist/asenachin/40fc54a72c8c835743a4b19833a8b09e).  
+  - [Прогнозирование вероятности оттока пользователей для фитнес-центров](https://nbviewer.org/gist/asenachin/40fc54a72c8c835743a4b19833a8b09e).
+ 
 4 🐍 Разработчик на Python (pandas, seaborn, plotly, dash, aiogram, flask, django).  
-Работаю сейчас над тем, чтобы открыть свои проекты для всех.  
+Работаю сейчас над тем, чтобы открыть свои проекты для всех. 
+
 ### Connect with me:
 <img align="left" alt="Telegram" width="26px" src="https://github.com/asenachin/asenachin/assets/109008309/4a01280e-6cee-47a4-a48c-8de63f4f4820" /> <a href="https://t.me/andrey_senachin">@andrey_senachin
 
