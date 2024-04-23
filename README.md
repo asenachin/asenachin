@@ -1,6 +1,6 @@
 ### Привет, я Андрей Сеначин - asenachin 👋
 
-## Я аналитик данных и немного разработчик Python!
+## Я аналитик данных и немного разработчик на Python!
 1 📈 Data Visualization.  
   - [Дашбоард в Power BI](https://github.com/asenachin/dashboard_power_bi/blob/main/README.md).  
   - [Дашборд в Excel](https://github.com/asenachin/dashboard_excel).
@@ -24,12 +24,12 @@
 
 Я работаю над тем, чтобы открыть свои проекты для всех. 
 
-### Connect with me:
+### Как со мной связаться?
 <img align="left" alt="Telegram" width="26px" src="https://github.com/asenachin/asenachin/assets/109008309/4a01280e-6cee-47a4-a48c-8de63f4f4820" /> <a href="https://t.me/andrey_senachin">@andrey_senachin
 
 <br />
 
-### Languages and Tools:
+### Мои компетенции:
 <img align="left" alt="Python" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" />
 <img align="left" alt="PostgreSQL" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
