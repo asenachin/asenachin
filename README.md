@@ -21,7 +21,8 @@
   - [Прогнозирование вероятности оттока пользователей для фитнес-центров](https://nbviewer.org/gist/asenachin/40fc54a72c8c835743a4b19833a8b09e).
  
 5 🐍 Разработчик на Python (pandas, seaborn, plotly, dash, aiogram, flask, django).  
-Работаю сейчас над тем, чтобы открыть свои проекты для всех. 
+
+Я работаю над тем, чтобы открыть свои проекты для всех. 
 
 ### Connect with me:
 <img align="left" alt="Telegram" width="26px" src="https://github.com/asenachin/asenachin/assets/109008309/4a01280e-6cee-47a4-a48c-8de63f4f4820" /> <a href="https://t.me/andrey_senachin">@andrey_senachin
