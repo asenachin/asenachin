@@ -1,7 +1,7 @@
 ### Привет, я Андрей Сеначин - asenachin 👋
 
 ## Я аналитик данных и немного разработчик на Python!
-1 📈 Data Visualization.  
+1 📈 Визуализация данных.  
   - [Дашбоард в Power BI](https://github.com/asenachin/dashboard_power_bi/blob/main/README.md).  
   - [Дашборд в Excel](https://github.com/asenachin/dashboard_excel).
   - [Дашборд в Tableau](https://public.tableau.com/app/profile/andrew.senachin6889/viz/telecomm_dash_viz/Dash_Telecomm_Viz).
