@@ -26,7 +26,9 @@
  
 5 🐍 Python разработчик (pandas, seaborn, plotly, dash, aiogram, flask, django).  
 
-Я работаю над тем, чтобы открыть свои проекты для всех. 
+  - [A/B-калькулятор (Z-тест)](https://github.com/asenachin/ABCalculator).
+
+Я работаю над тем, чтобы открыть все свои проекты для всех. 
 
 ### Как связаться со мной?
 <img align="left" alt="Telegram" width="26px" src="https://github.com/asenachin/asenachin/assets/109008309/4a01280e-6cee-47a4-a48c-8de63f4f4820" /> <a href="https://t.me/andrey_senachin">@andrey_senachin
