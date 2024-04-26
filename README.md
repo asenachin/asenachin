@@ -1,13 +1,7 @@
 ### Привет, я Андрей Сеначин - asenachin 👋
 
 ## Я аналитик данных и немного разработчик на Python!
-1 📈 Визуализация данных.  
-  - [Дашбоард в Power BI](https://github.com/asenachin/dashboard_power_bi/blob/main/README.md).  
-  - [Дашборд в Excel](https://github.com/asenachin/dashboard_excel).
-  - [Дашборд в Tableau](https://public.tableau.com/app/profile/andrew.senachin6889/viz/telecomm_dash_viz/Dash_Telecomm_Viz).
-  - [Презентации в LibreOffice Impress](https://disk.yandex.ru/i/UmRidIw7bbiRug).  
-
-2 📊 Исследовательский анализ данных.  
+1 📊 Исследовательский анализ данных.  
   - [Анализ поведения пользователей в мобильном приложении](https://github.com/asenachin/mobile_app_analysis).
   - [Исследование данных сервиса “Яндекс.Музыка” — сравнение пользователей двух городов](https://github.com/asenachin/MusicOfBigCities/blob/main/README.md).
   - [Исследование надёжности заёмщиков — анализ банковских данных](https://github.com/asenachin/the_reliability_of_bank_borrowers).   
@@ -16,6 +10,12 @@
   - [Исследование опроса клиентов телекоммуникационной компании](https://nbviewer.org/gist/asenachin/9094acf8f5025155a35535cf93f30cce).
   - [Исследование данных о продажах игр и игровых платформ](https://nbviewer.org/gist/asenachin/ed3350b66e238354afd0ec92a215f9d0).
   - [Определение выгодного тарифа для телеком компании](https://nbviewer.org/gist/asenachin/272f0ba7b048bdaa153b3d2dc8f8d295).
+
+2 📈 Визуализация данных.  
+  - [Дашбоард в Power BI](https://github.com/asenachin/dashboard_power_bi/blob/main/README.md).  
+  - [Дашборд в Excel](https://github.com/asenachin/dashboard_excel).
+  - [Дашборд в Tableau](https://public.tableau.com/app/profile/andrew.senachin6889/viz/telecomm_dash_viz/Dash_Telecomm_Viz).
+  - [Презентации в LibreOffice Impress](https://disk.yandex.ru/i/UmRidIw7bbiRug).  
 
 3 🍔 Продуктовая аналитика.
   - [Расчёт юнит-экономики по бренду SLOT](https://docs.google.com/spreadsheets/d/1aRR-Ibu1Eorik2ubiVDrf6nHoEEYnz8S/edit#gid=1625767444).  
