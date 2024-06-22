@@ -1,14 +1,13 @@
 ## Привет, я Андрей Сеначин 👋  
 
-
+### Мои проекты
 1 🐍 Python разработчик (pandas, seaborn, plotly, dash, aiogram, flask, django).         
 2 📊 Исследовательский анализ данных.   
 3 📈 Визуализация данных.    
 4 🍔 Продуктовая аналитика.  
 5 🧮 Машинное обучение, статистический анализ и А/В-тестирование.    
 
- 
-В публичном доступе пока не все проекты. 
+Примечание - В публичном доступе пока не все проекты. 
 
 ### Как связаться со мной?
 <img align="left" alt="Telegram" width="26px" src="https://github.com/asenachin/asenachin/assets/109008309/4a01280e-6cee-47a4-a48c-8de63f4f4820" /> <a href="https://t.me/andrey_senachin">@andrey_senachin
