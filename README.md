@@ -2,7 +2,7 @@
 
 
 1 🐍 Python разработчик (pandas, seaborn, plotly, dash, aiogram, flask, django).    
-  - [Интерфейс на Tkinter и графики в Matplotlib](https://github.com/asenachin/chart_examples).
+  - [Приложение с интерфейсом на Tkinter и графики в Matplotlib](https://github.com/asenachin/chart_examples).
   - [A/B-калькулятор (Z-тест)](https://github.com/asenachin/ABCalculator).
     
 2 📊 Исследовательский анализ данных. 
